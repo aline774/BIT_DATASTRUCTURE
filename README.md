@@ -71,3 +71,5 @@ Update one record.
 Delete another.
 
 Compute total of all values
+
+the output <img width="1916" height="995" alt="Image" src="https://github.com/user-attachments/assets/88dd8f12-f2ee-4031-b18b-061c0d504f69" />
