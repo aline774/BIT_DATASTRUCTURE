@@ -69,4 +69,4 @@ Update one record.
 
 Delete another.
 
-Compute total of all values()
+Compute total of all values
