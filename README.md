@@ -2,6 +2,7 @@
 # BIT_DATASTRUCTURE
 PROJECT70
 ASSIGNMENT1
+
 Integers → Perform total, average, min, max on applicant scores.
 
 Strings → Use f-strings to generate a summary report.
