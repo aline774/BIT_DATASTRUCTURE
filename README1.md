@@ -7,6 +7,8 @@ Integers → Perform total, average, min, max on applicant scores.
 
 Strings → Use f-strings to generate a summary report.
 
+
+
 Booleans → Apply compound threshold condition for performance status.
 
 Lists → Add, remove (with condition), sort, and display applicant names.
